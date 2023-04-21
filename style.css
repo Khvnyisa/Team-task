@@ -29,3 +29,8 @@ li .item {
 li button {
     margin-left: 10px;
 }
+body  {
+  background-image: url("list.jpg");
+  background-size: cover;
+
+}
